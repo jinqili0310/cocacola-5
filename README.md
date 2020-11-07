@@ -2,8 +2,8 @@
  * @Author: Jinqi Li
  * @Date: 2020-06-21 22:29:22
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-09-20 08:24:41
- * @FilePath: /cocacola-clone/README.md
+ * @LastEditTime: 2020-11-06 19:32:42
+ * @FilePath: /cocacola-5/README.md
 -->
 # CocaCola Clone
-* ## [Github Page](https://kikijinqili.github.io/cocacola/)# cocacola-5
+* ## [Github Page](https://kikijinqili.github.io/cocacola-5/)
